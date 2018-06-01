@@ -88,8 +88,8 @@ string	DocumentFile::GetWord()
 {
 	//************************************************************************************
 	//	LOCAL DATA
-	string	word,nextword;
-	bool success;
+	string	word,nextword;	//
+	bool success; 			//Boolean expression to indicate whether GetLine function was a success
 
 	//************************************************************************************
 	//	EXECUTABLE STATEMENTS
